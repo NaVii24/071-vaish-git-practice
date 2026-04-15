@@ -2,3 +2,6 @@ task-1----
 
 task-2---
 after build periodically..
+
+task-3 
+after poll SCM...
