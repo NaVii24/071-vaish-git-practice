@@ -7,3 +7,5 @@ task-3
 after poll SCM...
 
 day 2 updated..
+
+checking sequence of build..
